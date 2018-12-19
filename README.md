@@ -1,6 +1,6 @@
 # homework-pkg
 
-You should have been provided a csv file containing a flattened representation of graves in various parts of the world for a family spanning three generations.  Our ask is that you do the following using these data:
+The HomeworkData.csv file contains a flattened representation of graves in various parts of the world for a family spanning three generations.  Our ask is that you do the following using these data:
 
 1. Install Arches 4.3 (in development mode) and the Arches "Homework Package" on a server. It will be ideal if the deployment is web-accessible, but it could also just be on your own laptop if you are able to bring it in or do a screenshare to demonstrate.  
  - Arches Code Repo: https://github.com/archesproject/arches 
