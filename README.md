@@ -9,7 +9,7 @@ The HomeworkData.csv file contains a flattened representation of graves in vario
 2. Process the csv file into a format/structure that can be loaded into Arches.  Load the data into the Graves "Resource Model" (which was loaded as part of the Homework package.) If any data integrity issues that prevent loading, document and resolve those issues.  Verify that the data are visible in the Arches search page.
  - Hint: https://arches.readthedocs.io/en/stable/command-line-reference/#import-business-data
 
-3. Visualize the data within Arches using QGIS, ArcGIS Pro, or ArcGIS Online
+3. Visualize the data within Arches using a non-Arches Platform, like: Geoserver/Leaflet, Mapbox, AGOL, QGIS, ArcGIS.  Any chops you want to show off with this external platform are welcome. (Search, cool cartography, data processing).
  - Hint: The Postgres Arches database will contain a materialized view called mv_geojosn_geoms.  Once data are loaded, this view can be used as the basis for a traditional GIS layer containing Postgis data.
 
 4. Create a simple document that:
